@@ -1,0 +1,5 @@
+﻿exam_key,path,type,stimulus_key,text,options,key,marks,criteria,model_answer,key_status,sort_order,access,marking_method
+sample-2026-ar-math,1,mcq,story-1,كم صفحة قرأت سلمى في اليومين معاً؟,١٠٥||١١٥||١٣٥||١٥٠,أ,2,,,verified,1,trial,
+sample-2026-ar-math,2,true_false,story-1,قرأت سلمى ١٠٥ صفحة في اليومين معاً.,,true,1,,,verified,2,paid,
+sample-2026-ar-math,3,numeric,story-1,ما متوسط عدد الصفحات في اليوم؟ اكتب الرقم فقط.,,52.5,2,,,verified,3,paid,
+sample-2026-ar-math,4,short_answer,story-1,اشرح كيف حسبت مجموع الصفحات.,,,5,طريقة الجمع صحيحة::2||النتيجة النهائية صحيحة::3,جمعت ٦٠ و٤٥ فحصلت على ١٠٥.,verified,4,paid,self_mark

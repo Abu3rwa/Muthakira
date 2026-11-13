@@ -1,0 +1,14 @@
+{
+  "general": {
+    "defaultPermissionMode": "bypass_permissions"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(node -v; npm -v; git --version; docker --version 2>/dev/null || echo \"no docker\"; mongod --version 2>/dev/null | head -2 || echo \"no local mongod\")",
+      "Read",
+      "Edit",
+      "Bash(npm run test:*)",
+      "Bash(git status)"
+    ]
+  }
+}

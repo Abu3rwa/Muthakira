@@ -1,0 +1,1026 @@
+{
+  "@@locale": "en",
+  "appName": "Mothakira",
+  "tagline": "Study smarter",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "retry": "Try again",
+  "save": "Save",
+  "continueLabel": "Continue",
+  "back": "Back",
+  "next": "Next",
+  "previous": "Previous",
+  "done": "Done",
+  "close": "Close",
+  "copy": "Copy",
+  "copied": "Copied",
+  "share": "Share",
+  "confirm": "Confirm",
+  "search": "Search",
+  "filters": "Filters",
+  "clearFilters": "Clear filters",
+  "apply": "Apply",
+  "viewPaper": "View paper",
+  "previewQuestions": "Preview questions",
+  "topUpBalance": "Top up",
+  "browseExams": "Browse exams",
+  "balanceShort": "Balance",
+  "walletUnavailable": "Balance unavailable",
+  "showMore": "More",
+  "showLess": "Less",
+  "loading": "Loading…",
+  "comingSoon": "Coming soon",
+  "comingSoonHint": "This feature is not available yet. We are working on it.",
+  "offline": "No connection",
+  "offlineBanner": "You are offline. Showing saved data.",
+  "serverWaking": "Server is waking up…",
+  "serverWakingHint": "The first request can take a few seconds. Thanks for waiting.",
+  "errorTitle": "That did not work",
+  "emptyTitle": "Nothing here yet",
+  "lastUpdated": "Updated {time}",
+  "@lastUpdated": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "savedBadge": "Saved",
+  "pendingSyncBadge": "Waiting to sync",
+  "requiredField": "This field is required",
+  "optional": "Optional",
+  "seeAll": "See all",
+  "version": "Version {value}",
+  "@version": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "support": "Support",
+  "contactSupport": "Contact support",
+  "terms": "Terms",
+  "privacy": "Privacy",
+  "logout": "Sign out",
+  "logoutConfirmTitle": "Sign out?",
+  "logoutConfirmBody": "Saved data on this device will be removed. You will need to sign in again.",
+  "sdg": "SDG",
+  "creditsLabel": "Credits",
+  "available": "Available",
+  "reserved": "Reserved",
+  "balance": "Balance",
+  "notAvailable": "—",
+  "chooseLanguage": "Choose your language",
+  "chooseLanguageHint": "You can change this later in Settings.",
+  "preferredLanguage": "Preferred language",
+  "preferredLanguageHint": "Saved with your account and sets the app language.",
+  "arabic": "العربية",
+  "english": "English",
+  "welcomeTitle": "Sudan Certificate exams in your pocket",
+  "welcomeBody": "Study smarter with past papers and instant marking.",
+  "welcomePoint1": "Official exams sorted by subject and year",
+  "welcomePoint2": "Instant marking with the model answer for every question",
+  "welcomePoint3": "Top up credits easily through Bankak",
+  "getStarted": "Get started",
+  "haveAccount": "Already have an account? Sign in",
+  "signIn": "Sign in",
+  "signUp": "Create account",
+  "name": "Name",
+  "email": "Email",
+  "emailHint": "you@example.com",
+  "phone": "Phone number",
+  "password": "Password",
+  "newPassword": "New password",
+  "classLevel": "Class",
+  "stream": "Stream",
+  "other": "Other",
+  "language": "Language",
+  "termsAccept": "I agree to the Terms and the Privacy Policy",
+  "termsTitle": "Terms and conditions",
+  "privacyTitle": "Privacy policy",
+  "recoveryCodeTitle": "Your recovery code",
+  "recoveryCodeBody": "This is the only code that lets you reset your password if you forget it. Keep it somewhere safe.",
+  "recoveryCodeWarning": "We will not show this code again. Do not share it with anyone.",
+  "iSavedIt": "I saved the code somewhere safe",
+  "recoveryCodeCopied": "Recovery code copied",
+  "forgotPassword": "Forgot password?",
+  "forgotPasswordTitle": "Reset your password",
+  "forgotPasswordBody": "Enter your email and we will send you a 6-digit code to reset your password.",
+  "forgotPasswordCodeBody": "Enter the 6-digit code from the email, then choose a new password.",
+  "resetCode": "Reset code",
+  "resetCodeHint": "The 6-digit code from the email",
+  "resetCodeSentTo": "If {email} has an account, a code is on its way. Check the spam folder too.",
+  "@resetCodeSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "sendResetCode": "Email me a code",
+  "resendCode": "Send a new code",
+  "useSavedRecoveryCode": "Use a saved recovery code instead",
+  "useEmailedCode": "Use an emailed code instead",
+  "resetCodeExpiry": "The code expires in {minutes} minutes.",
+  "@resetCodeExpiry": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "passwordChangedBody": "Your password has been changed. Sign in with the new one.",
+  "recoveryCode": "Recovery code",
+  "resetPassword": "Reset password",
+  "resetSuccessTitle": "Password changed",
+  "resetSuccessBody": "Save your new recovery code, then sign in with your new password.",
+  "blockedTitle": "Account suspended",
+  "blockedBody": "This account has been suspended. Contact support for help.",
+  "phoneHint": "Example: 0912345678",
+  "passwordHint": "At least 8 characters",
+  "nameHint": "Your name as it appears on your certificate",
+  "classLevelHint": "Choose your class",
+  "streamHint": "Science or literary",
+  "showPassword": "Show password",
+  "hidePassword": "Hide password",
+  "passwordWeak": "Weak",
+  "passwordMedium": "Medium",
+  "passwordStrong": "Strong",
+  "secondary1": "Secondary 1",
+  "secondary2": "Secondary 2",
+  "secondary3": "Secondary 3 (Sudan Certificate)",
+  "streamScience": "Science",
+  "streamLiterary": "Literary",
+  "sessionExpired": "Your session ended. Please sign in again.",
+  "walletTitle": "Wallet",
+  "availableCredits": "Available credits",
+  "reservedHint": "{count} of your credits are held for a payment under review.",
+  "@reservedHint": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "nextExpiry": "Next expiry",
+  "expirySoon": "Some of your credits expire on {date}. Use them before then.",
+  "@expirySoon": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "lowCredits": "Your credits are low. Top up to keep studying.",
+  "addCredit": "Add credits",
+  "ledgerTitle": "Credit history",
+  "ledgerEmpty": "No activity yet",
+  "ledgerEmptyHint": "Every credit added or used will show up here.",
+  "entrySignupBonus": "Welcome credits",
+  "entryPurchase": "Credit purchase",
+  "entrySpend": "Credits used",
+  "entryExpiry": "Credits expired",
+  "entryAdminAdjust": "Admin adjustment",
+  "entryExamUnlock": "Unlocked exam {key}",
+  "@entryExamUnlock": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "entryPaymentApproved": "Payment {code} approved",
+  "entryUnlockShort": "Paper unlocked",
+  "entryPaymentApprovedShort": "Payment approved",
+  "@entryPaymentApproved": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "creditsCount": "{count, plural, one{1 credit} other{{count} credits}}",
+  "@creditsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "examsTitle": "Exams",
+  "subject": "Subject",
+  "year": "Year",
+  "session": "Session",
+  "allSubjects": "All subjects",
+  "allYears": "All years",
+  "allSessions": "All sessions",
+  "allLanguages": "All languages",
+  "free": "Free",
+  "unlocked": "Unlocked",
+  "locked": "Locked",
+  "lockedFor": "Locked · {count}",
+  "@lockedFor": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "unlockFor": "Unlock for {count}",
+  "@unlockFor": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "unlockConfirmTitle": "Unlock this exam?",
+  "unlockConfirmBody": "{cost} will be taken from your credits. You currently have {balance}.",
+  "@unlockConfirmBody": {
+    "placeholders": {
+      "cost": {
+        "type": "String"
+      },
+      "balance": {
+        "type": "String"
+      }
+    }
+  },
+  "balanceAfter": "Balance after unlocking (estimate): {value}",
+  "@balanceAfter": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "unlock": "Unlock exam",
+  "unlockSuccess": "Exam unlocked. Good luck!",
+  "startPractice": "Start practice",
+  "resumePractice": "Resume practice",
+  "practiceDisabled": "Practice unavailable",
+  "practiceDisabledHint": "Practice on this exam has been turned off by the admin. You can still read it.",
+  "paperViewer": "Read the paper",
+  "instructions": "Instructions",
+  "totalMarks": "{count} marks",
+  "@totalMarks": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "durationMinutes": "{count, plural, one{1 minute} other{{count} minutes}}",
+  "@durationMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "questionCount": "{count, plural, one{1 question} other{{count} questions}}",
+  "@questionCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "myUnlocks": "My unlocked exams",
+  "myUnlocksEmpty": "You have not unlocked an exam yet",
+  "myUnlocksEmptyHint": "Unlock an exam and it will appear here, available offline.",
+  "yourOpenPapers": "Your open papers",
+  "partialPapersFailed": "{count, plural, one{One paper could not load} other{{count} papers could not load}}",
+  "@partialPapersFailed": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "viewKeys": "Model answers",
+  "trialBadge": "Trial",
+  "examNotFound": "We could not find that exam",
+  "noExams": "No exams match your filters",
+  "noExamsHint": "Try different filters or another search word.",
+  "searchExams": "Search a subject or year",
+  "stimulusTitle": "Passage",
+  "questionLabel": "Question {path}",
+  "@questionLabel": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "answerKey": "Correct answer",
+  "explanation": "Explanation",
+  "modelAnswer": "Model answer",
+  "criteria": "Marking criteria",
+  "acceptedAlternatives": "Accepted alternatives",
+  "lockedQuestionHint": "Unlock the exam to see this question and its answer.",
+  "fieldTooShort": "Use at least {min} characters",
+  "@fieldTooShort": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldTooLong": "Use at most {max} characters",
+  "@fieldTooLong": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldPhoneInvalid": "Enter a valid phone number",
+  "fieldPasswordShort": "Your password needs at least 8 characters",
+  "fieldTermsRequired": "Please accept the terms to continue",
+  "fieldAnswerRequired": "Write your answer first",
+  "practiceTitle": "Practice",
+  "questionOf": "Question {current} of {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "checkAnswer": "Check answer",
+  "nextQuestion": "Next question",
+  "previousQuestion": "Previous question",
+  "finishPractice": "Finish practice",
+  "finishConfirmTitle": "Finish this practice session?",
+  "finishConfirmBody": "You can review your answers afterwards on the result screen.",
+  "correct": "Correct",
+  "incorrect": "Not correct",
+  "partlyCorrect": "Partly correct — {awarded} of {total}",
+  "@partlyCorrect": {
+    "placeholders": {
+      "awarded": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "marksAwarded": "{value} marks",
+  "@marksAwarded": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "marksWorth": "Worth {value} marks",
+  "@marksWorth": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "answerSaved": "Your answer was saved",
+  "answerSubmitted": "Submitted for marking",
+  "savedOnDevice": "Saved on this device",
+  "waitingToSend": "Waiting to send",
+  "checkDisabledHint": "Choose or write an answer to enable checking.",
+  "moveUp": "Move up",
+  "moveDown": "Move down",
+  "structureUnavailable": "There isn't enough data to show this question type. Report the question so we can review it.",
+  "currentLabel": "Current",
+  "backToQuestions": "Back to questions",
+  "pendingUploadCount": "{count, plural, one{One answer waiting to send} other{{count} answers waiting to send}}",
+  "@pendingUploadCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "provisionalScore": "Provisional result",
+  "finalScore": "Final result",
+  "newPractice": "New practice",
+  "yourAnswerUnavailable": "Your answer isn't available on this device.",
+  "keyUnavailable": "The answer isn't available yet.",
+  "pendingSelf": "Saved. Mark this question yourself by comparing your answer with the model answer.",
+  "pendingAi": "Saved. You can request AI marking with a separate button.",
+  "tryAgain": "Try again",
+  "tryAgainAiWarning": "Re-answering an AI-marked question needs a new (paid) AI grading.",
+  "reportTextHint": "Extra details (optional, at least 5 characters)",
+  "attemptsCount": "Attempt {count}",
+  "@attemptsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "questionNavigator": "Question map",
+  "answeredLabel": "Answered",
+  "unansweredLabel": "Not answered",
+  "pendingLabel": "Waiting for marking",
+  "reportQuestion": "Report a question",
+  "reportReasonLabel": "What is wrong?",
+  "reportReasonHint": "Describe the problem (at least 5 characters)",
+  "reportSent": "Report sent. Thank you.",
+  "resultTitle": "Result",
+  "scoreOf": "{awarded} of {total}",
+  "@scoreOf": {
+    "placeholders": {
+      "awarded": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "resultPendingNote": "Questions that are not marked yet are not included in the score.",
+  "reviewAnswers": "Review answers",
+  "retryWrong": "Retry wrong questions",
+  "backToExams": "Back to exams",
+  "sectionBreakdown": "By section",
+  "yourAnswer": "Your answer",
+  "noAnswer": "No answer",
+  "answerHintText": "Write your answer here",
+  "selectOne": "Choose one answer",
+  "selectAllThatApply": "Choose all correct answers",
+  "trueLabel": "True",
+  "falseLabel": "False",
+  "blankLabel": "Blank {index}",
+  "@blankLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "cellLabel": "Row {row}, column {column}",
+  "@cellLabel": {
+    "placeholders": {
+      "row": {
+        "type": "String"
+      },
+      "column": {
+        "type": "String"
+      }
+    }
+  },
+  "reorderHint": "Drag to reorder",
+  "orderingItemLabel": "Item {index} of {total}",
+  "@orderingItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "numericKeyboardHint": "Enter a number (Arabic digits and decimal commas accepted)",
+  "matchWith": "Match with",
+  "numericHint": "Enter a number",
+  "selfMarkTitle": "Mark yourself",
+  "selfMarkHint": "Compare your answer with the model answer, then rate yourself. The mark is sent to the server and counts towards your result.",
+  "selfMarkGotIt": "I got it right",
+  "selfMarkPartial": "Partly right",
+  "selfMarkMissed": "I did not get it right",
+  "offlineQueued": "You are offline. Your answer was saved and will be sent when you reconnect.",
+  "attemptClosedTitle": "Session closed",
+  "startNewAttempt": "Start a new session",
+  "resumeTitle": "Pick up where you left off",
+  "packagesTitle": "Credit packages",
+  "pricePerCredit": "{value} per credit",
+  "@pricePerCredit": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "buyPackage": "Buy this package",
+  "paymentsTitle": "My payments",
+  "paymentsEmpty": "No payment requests",
+  "paymentsEmptyHint": "Choose a credit package, transfer the amount through Bankak, then upload the receipt here.",
+  "paymentInstructionsTitle": "How to pay",
+  "stepAmount": "1. Transfer this exact amount",
+  "stepBank": "2. To this account",
+  "stepBankak": "3. Complete the transfer in the Bankak app",
+  "stepReceipt": "4. Upload the receipt and enter the transaction reference",
+  "stepStatus": "5. Follow the request status",
+  "exactAmountWarning": "Transfer the exact same amount. Any difference delays approval.",
+  "bankName": "Bank",
+  "accountName": "Account name",
+  "accountNumber": "Account number",
+  "paymentCode": "Payment code",
+  "openBankak": "Open Bankak app",
+  "bankakNotInstalled": "The Bankak app is not installed on this device.",
+  "reviewTimeHint": "Requests are usually reviewed within a few hours.",
+  "referenceLabel": "Transaction reference",
+  "senderNameLabel": "Sender name",
+  "receiptLabel": "Receipt image",
+  "takePhoto": "Take a photo",
+  "chooseFromGallery": "Choose from gallery",
+  "choosePdf": "Choose a PDF file",
+  "receiptPreview": "Receipt preview",
+  "submitReceipt": "Submit receipt",
+  "receiptUploading": "Uploading receipt…",
+  "receiptTooLargeLocal": "The file is larger than 8 MB. Choose a smaller image.",
+  "receiptTypeInvalidLocal": "That file type is not supported. Use JPEG, PNG, WebP or PDF.",
+  "cameraRationaleTitle": "We need camera access",
+  "cameraRationaleBody": "We use the camera only to photograph your transfer receipt. We never reach any other photos unless you pick them.",
+  "statusPendingPayment": "Waiting for payment",
+  "statusSubmitted": "Submitted",
+  "statusUnderReview": "Under review",
+  "statusNeedsInfo": "Needs information",
+  "statusApproved": "Approved",
+  "statusRejected": "Rejected",
+  "statusExpired": "Expired",
+  "statusCancelled": "Cancelled",
+  "timelineCreated": "Request created",
+  "timelineSubmitted": "Receipt submitted",
+  "timelineReviewed": "Under review",
+  "timelineDecided": "Decision",
+  "rejectReasonLabel": "Reason for rejection",
+  "resubmit": "Submit again",
+  "cancelRequest": "Cancel request",
+  "cancelConfirmTitle": "Cancel this payment request?",
+  "cancelConfirmBody": "This request will be cancelled and you can create a new one afterwards.",
+  "paymentApprovedTitle": "Credits added!",
+  "viewReceipt": "View receipt",
+  "expectedAmountLabel": "Amount to transfer",
+  "homeTitle": "Home",
+  "greeting": "Hello {name}",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "recommendedForYou": "Recommended for you",
+  "quickActions": "Quick actions",
+  "newPapers": "Newest papers",
+  "continueStudying": "Continue studying",
+  "profileTitle": "My account",
+  "settingsTitle": "Settings",
+  "appearance": "Appearance",
+  "appearanceHint": "Pick the look that is easiest on your eyes.",
+  "groupReading": "Reading",
+  "groupLanguageNumbers": "Language and numbers",
+  "groupData": "Data and storage",
+  "groupHelp": "Support and diagnostics",
+  "readingSample": "Read slowly, and review your lesson every day.",
+  "appLanguageHint": "The language of buttons, menus and messages.",
+  "digitStyleHint": "Number shape only; it does not change the language.",
+  "themeSystem": "Follow system",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "textSize": "Text size",
+  "digitStyle": "Digit style",
+  "digitsArabic": "Arabic ١٢٣",
+  "digitsWestern": "Western 123",
+  "dataSaver": "Data saver",
+  "dataSaverHint": "Do not download model answers or large papers automatically.",
+  "clearCache": "Clear saved data",
+  "clearCacheConfirmTitle": "Clear saved data?",
+  "clearCacheConfirmBody": "Saved papers, answers, drafts and answers waiting to upload will be removed from this device. Your credits, account and sign-in stay the same.",
+  "clearCacheIncludesQueue": "Drafts and answers waiting to upload will also be deleted.",
+  "cacheCleared": "Saved data cleared",
+  "paymentHelp": "Payment help",
+  "reportProblem": "Report a problem",
+  "reportProblemHint": "Shares the recent error log without any personal data.",
+  "deleteAccount": "Delete account",
+  "deleteAccountHint": "Automatic account deletion is not available yet. Contact support and we will do it manually.",
+  "aboutAndLegal": "About and legal",
+  "appLanguage": "App language",
+  "aboutApp": "About the app",
+  "diagnosticsEmpty": "No errors recorded",
+  "sendReport": "Send report",
+  "forceUpdateTitle": "Update required",
+  "forceUpdateBody": "A newer version is available. Update the app from the store, then open it again.",
+  "notFoundTitle": "Page not found",
+  "maintenanceTitle": "Service temporarily unavailable",
+  "errorUnauthorized": "Your session ended. Please sign in again.",
+  "errorInvalidCredentials": "That email or password is not correct.",
+  "errorInvalidToken": "Your session ended. Please sign in again.",
+  "errorInvalidRefreshToken": "Your session ended. Please sign in again.",
+  "errorAccountBlocked": "This account is suspended. Contact support.",
+  "errorForbidden": "You do not have permission for that action.",
+  "errorNotFound": "We could not find what you were looking for.",
+  "errorPhoneTaken": "That phone number is already registered. Try signing in.",
+  "errorEmailTaken": "That email is already registered. Try signing in.",
+  "errorInvalidEmail": "Enter a valid email address.",
+  "errorInvalidResetCode": "That code is not correct or has expired.",
+  "errorMailNotConfigured": "Email is not set up on the server yet. Contact support.",
+  "errorMailSendFailed": "The email could not be sent. Try again in a moment.",
+  "errorInvalidPhone": "Enter a valid Sudanese mobile number, for example 0912345678.",
+  "errorReceiptUploadFailed": "The receipt could not be uploaded. Try again.",
+  "errorStudentOnly": "This action is available to students only.",
+  "errorInvalidRecoveryCode": "That recovery code is not correct.",
+  "errorValidationError": "Please check the fields marked in red.",
+  "errorRateLimited": "Too many requests. Wait a moment and try again.",
+  "errorInsufficientCredits": "You do not have enough credits. Top up to continue.",
+  "errorExamNotFound": "We could not find that exam.",
+  "errorExamLocked": "This exam is locked. Unlock it first.",
+  "errorPracticeDisabled": "Practice is not available for this exam.",
+  "errorQuestionNotFound": "We could not find that question.",
+  "errorQuestionNotAnswerable": "Answer the sub-questions, not the section itself.",
+  "errorAttemptNotFound": "We could not find that practice session.",
+  "errorAttemptClosed": "That practice session is closed. Start a new one.",
+  "errorDuplicateValue": "That value is already in use.",
+  "errorPackageNotFound": "That credit package is no longer available.",
+  "errorPaymentAccountNotConfigured": "The receiving account is not set up yet. Contact support.",
+  "errorTooManyOpenPayments": "You have open payment requests. Finish or cancel one first.",
+  "errorPaymentAmountsExhausted": "No amounts are free right now. Try again shortly.",
+  "errorPaymentRequestNotFound": "We could not find that payment request.",
+  "errorPaymentNotSubmittable": "This request can no longer be submitted.",
+  "errorPaymentNotCancellable": "A request that was already submitted cannot be cancelled.",
+  "errorInvalidReference": "Enter the Bankak transaction reference (at least 4 characters).",
+  "errorReferenceAlreadyUsed": "That transaction reference is already used for another payment request.",
+  "errorReceiptNotFound": "We could not find that receipt.",
+  "errorReceiptAlreadyAttached": "That receipt is already attached to another payment request.",
+  "errorReceiptTooLarge": "The receipt is too large. The limit is 8 MB.",
+  "errorReceiptTypeNotAllowed": "Upload a JPEG, PNG or WebP image, or a PDF file.",
+  "errorReceiptFieldInvalid": "That receipt file is not valid.",
+  "errorReceiptRequired": "Attach the receipt image first.",
+  "errorReceiptFileMissing": "The file did not arrive. Please try again.",
+  "errorReportAlreadyOpen": "You already reported this question. We are reviewing it.",
+  "errorInvalidCursor": "Could not load more. Refresh the list.",
+  "errorInternalError": "Something went wrong on the server. Please try again.",
+  "errorNetworkError": "No internet connection. Check your network and try again.",
+  "errorCacheError": "Could not read the saved data.",
+  "errorUnknown": "Something unexpected happened. Please try again.",
+  "skip": "Skip",
+  "all": "All",
+  "show": "Show",
+  "hide": "Hide",
+  "yes": "Yes",
+  "no": "No",
+  "errorHint": "Check your connection and try again.",
+  "errorTimeout": "The server took too long. Try again.",
+  "errorFallback": "Unexpected error ({code}).",
+  "@errorFallback": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "termsBody": "By using Mothakira you agree to use the app for personal study only. Papers belong to their original owners and are shown for educational use. We keep your phone number, name and payment history to run your account and do not share them. Never share your recovery code.",
+  "aboutBody": "Mothakira helps Sudan Certificate students study with official papers, instant marking and credit bought through Bankak.",
+  "maintenanceBody": "We are updating the service. Try again shortly.",
+  "notFoundBody": "The link is wrong or has changed.",
+  "goHome": "Home",
+  "designGallery": "Design gallery",
+  "reportReason1": "The question is unclear",
+  "reportReason2": "The answer key is wrong",
+  "reportReason3": "A typo in the text",
+  "reportReason4": "Something else",
+  "matchingInstruction": "Pick the matching letter for each item",
+  "orderingInstruction": "Put the items in the correct order",
+  "tableInstruction": "Fill in the table cells",
+  "matrixInstruction": "Enter the matrix values in the cells",
+  "truthTableInstruction": "Complete the output column of the truth table",
+  "truthTableOutput": "Output",
+  "multiInstruction": "Choose every correct answer",
+  "diacriticsInstruction": "Write the text with full diacritics",
+  "fillBlankInstruction": "Fill in the blanks inside the text",
+  "blueprint": "Tip: use paper and pen for working out.",
+  "streamNone": "No stream",
+  "otherOption": "Other (type it)",
+  "loginTitle": "Welcome back",
+  "loginSubtitle": "Sign in to continue studying.",
+  "signupTitle": "Create your account",
+  "signupSubtitle": "A minute and you are ready to practise.",
+  "noAccount": "No account yet?",
+  "recoverySavedHint": "Tick the box once you have saved the code somewhere safe to continue.",
+  "signupBonus": "A welcome credit is in your account",
+  "cooldownTitle": "Too many attempts",
+  "cooldownBody": "Wait a moment before trying again.",
+  "home": "Home",
+  "exams": "Papers",
+  "practice": "Practice",
+  "wallet": "Wallet",
+  "profile": "Profile",
+  "continueBody": "You have an open practice session on {paper}.",
+  "@continueBody": {
+    "placeholders": {
+      "paper": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingPaymentBanner": "You have a payment waiting for review.",
+  "viewPayment": "View request",
+  "paperContents": "Paper contents",
+  "insufficientTitle": "Not enough credit",
+  "insufficientBody": "You need {needed} more to unlock this paper.",
+  "@insufficientBody": {
+    "placeholders": {
+      "needed": {
+        "type": "String"
+      }
+    }
+  },
+  "keysLocked": "Unlock the paper to see the keys.",
+  "answeredCount": "Answered {count}",
+  "@answeredCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyPractice": "No papers to practise yet",
+  "emptyPracticeHint": "Unlock a paper from the Papers tab first.",
+  "noPackages": "No packages available",
+  "noPackagesHint": "Try later or contact support.",
+  "confirmPackageTitle": "Confirm request",
+  "confirmPackageBody": "We will create a payment request for {price} for the {credits} package.",
+  "@confirmPackageBody": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "credits": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmPackage": "Create payment request",
+  "packageCredits": "{count} credits",
+  "@packageCredits": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "choosePackage": "Choose a package",
+  "referenceHint": "The number in your transfer notification",
+  "paymentSubmitted": "We received your request. It will be reviewed shortly.",
+  "timeline": "Request steps",
+  "requestCancelled": "Request cancelled.",
+  "receiptMissing": "No receipt attached",
+  "paymentHelpBody": "If review is late or the request was rejected, contact support with your payment code.",
+  "expectedAmountCopy": "Copy amount",
+  "openReceiptFile": "Open file",
+  "removeFile": "Remove file",
+  "receiptLoadFailed": "Could not show the receipt. Try again.",
+  "availableNow": "Available to use now",
+  "reservedNotSpendable": "Reserved credits are held for a payment request under review and cannot be used yet.",
+  "balanceStaleHint": "This balance is saved from the last successful update. Pull down to refresh.",
+  "loadMoreLedger": "Load older entries",
+  "ledgerLoadMoreFailed": "Could not load more. The entries shown stay as they are.",
+  "ledgerAllShown": "All entries are shown",
+  "selectPackageHint": "Pick one package, then continue to the transfer page.",
+  "continueToPayment": "Continue to payment",
+  "openRequestNotice": "You have an open payment request. Finish its receipt or cancel it before starting a new one.",
+  "manualReviewNotice": "Support reviews the receipt manually before credits are added.",
+  "nextActionLabel": "Next action",
+  "refreshStatus": "Refresh status",
+  "paymentStatusExplainPending": "No receipt sent yet. Transfer the exact amount, then attach the receipt.",
+  "paymentStatusExplainSubmitted": "Your request arrived and is waiting for review to start. Nothing to do now.",
+  "paymentStatusExplainUnderReview": "Support is reviewing the receipt now. Nothing to do.",
+  "paymentStatusExplainNeedsInfo": "Support needs more information. Read the note, then resend the receipt.",
+  "paymentStatusExplainApproved": "The request was approved and credits were added to your wallet.",
+  "paymentStatusExplainRejected": "The receipt was rejected. Read the reason before starting a new request.",
+  "paymentStatusExplainExpired": "The request expired before a receipt was sent. Start a new one from packages.",
+  "paymentStatusExplainCancelled": "This request was cancelled. No credits were added.",
+  "paymentStatusExplainUnknown": "The request state is unknown. Refresh or contact support.",
+  "requestSummaryTitle": "Request summary",
+  "receiptSourceTitle": "Choose receipt source",
+  "galleryRationaleTitle": "Choose from photo library",
+  "galleryRationaleBody": "We open your photo library only to pick the receipt image.",
+  "receiptPrepareFailed": "Could not prepare the file. Try another image or a PDF.",
+  "receiptReading": "Reading the transaction number from your receipt…",
+  "receiptExtracted": "We filled the transaction number and your name from the receipt. Check them before sending.",
+  "receiptExtractManual": "We could not read the transaction number from the receipt. Please type it yourself.",
+  "receiptAcceptedTitle": "Accepted files",
+  "receiptAcceptedValue": "JPEG, PNG, WebP or PDF · up to {size}",
+  "@receiptAcceptedValue": {
+    "placeholders": {
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "receiptPickHint": "A clear image showing the amount and the transaction number.",
+  "receiptReady": "File ready to send",
+  "preparingReceipt": "Preparing the file…",
+  "replaceFile": "Replace file",
+  "fileTypeLabel": "Type",
+  "fileSizeLabel": "Size",
+  "attachmentKeepNotice": "The uploaded receipt stays attached; you will not need to upload it again.",
+  "receiptCompressedHint": "The image was compressed to keep the upload small.",
+  "receiptOpenFailed": "Could not open the file. Make sure an app that opens PDFs is installed.",
+  "openPayments": "Open requests",
+  "paymentHistory": "History",
+  "diagnosticsTitle": "Diagnostics",
+  "serverUrl": "Server URL",
+  "appVersionLabel": "App version",
+  "connectionLabel": "Connection",
+  "online": "Online",
+  "pendingAnswers": "Answers waiting to sync",
+  "languageArabic": "العربية",
+  "languageEnglish": "English",
+  "callSupport": "Call",
+  "supportPhoneLabel": "Phone",
+  "supportWhatsAppLabel": "WhatsApp",
+  "openWhatsApp": "Open WhatsApp",
+  "galleryColors": "Colours",
+  "galleryTypography": "Typography",
+  "galleryComponents": "Components",
+  "accountDetails": "Account details",
+  "apiMode": "Data source",
+  "diagnosticsIntro": "Information that helps support understand the problem. It does not include your password or recovery code.",
+  "diagnosticsConnectionHint": "The network state as the app sees it right now.",
+  "diagnosticsPendingHint": "Answers saved on this device that have not been sent yet.",
+  "diagnosticsApiHint": "The server this build reads its data from.",
+  "lastChecked": "Last checked: {time}",
+  "@lastChecked": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "splashBusyHint": "Checking your session… this can take up to 12 seconds on a slow connection.",
+  "fakeApi": "Fake data",
+  "liveApi": "Live server",
+  "couldNotOpen": "Could not open the app. Try again.",
+  "reportShared": "Thank you for sharing the report.",
+  "privacyBody": "Mothakira keeps your phone number, name and payment history only to run your account, and never shares them. Your data is used to unlock papers and track your progress. You can request account deletion from the profile page.",
+  "adaptivePractice": "Adaptive practice",
+  "adaptiveEntryHint": "The server picks each next question from your earlier answers.",
+  "adaptiveClassContext": "Your class: {className}",
+  "@adaptiveClassContext": {
+    "placeholders": {
+      "className": {
+        "type": "String"
+      }
+    }
+  },
+  "adaptivePickPaper": "Choose a paper to practise adaptively",
+  "adaptiveFreeNote": "Adaptive selection is free and uses no credits. Paid questions need the paper unlocked.",
+  "adaptiveNoControls": "There is no manual topic or difficulty choice; the server adjusts difficulty from your results.",
+  "adaptiveStart": "Start adaptive practice",
+  "adaptiveRemaining": "Questions left: {count}",
+  "@adaptiveRemaining": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "adaptiveNoQuestions": "No questions available",
+  "adaptiveNoAccess": "No questions are available before unlocking this paper. Unlock it, then come back.",
+  "adaptiveExhausted": "You answered every available question in this paper.",
+  "adaptiveAutoLevel": "Difficulty is chosen automatically",
+  "aiGradeTitle": "AI marking",
+  "aiGradeConfirmTitle": "Use AI marking?",
+  "aiGradeBody": "Your answer is marked against the model answer and checked by a person when confidence is low.",
+  "aiGradeUnofficial": "Unofficial result",
+  "aiGradeCostNote": "The server sets the fee and reserves it when you ask. It is only charged once the result is approved, and fully returned if rejected or failed.",
+  "aiGradeCharged": "Charged {credits} credits for marking.",
+  "@aiGradeCharged": {
+    "placeholders": {
+      "credits": {
+        "type": "int"
+      }
+    }
+  },
+  "aiGradeReviewPending": "Your answer is waiting for human review",
+  "aiGradeReviewBody": "An initial AI mark was made; the final mark is confirmed after review.",
+  "aiGradeReviewNoCharge": "No credits are charged now; they stay reserved until the review is approved, and are returned if it is rejected.",
+  "aiGradeInProgress": "AI marking in progress…",
+  "aiGradeInProgressHint": "This can take up to a minute. If the connection drops, the saved result is recovered automatically at no extra charge.",
+  "aiGradeRecovered": "Restored the server's saved result at no extra charge.",
+  "aiGradeRejectedTitle": "Review rejected",
+  "aiGradeRejectedBody": "The reserved credits were returned to your balance. You can re-submit your answer or request a new AI marking.",
+  "aiGradeVoidedTitle": "Review cancelled",
+  "aiGradeVoidedBody": "Your answer changed after the review was requested, so it was cancelled and the credits returned. Request marking again for the current answer.",
+  "aiGradeTimeoutHint": "The request took longer than expected. If marking finished, its saved result will appear — you are never charged twice.",
+  "aiGradeMissingPoints": "Missing points",
+  "aiGradeFailed": "Marking did not complete. Your answer is saved; you can try again later.",
+  "aiGradeUnavailable": "AI marking is unavailable right now.",
+  "aiGrading": "Marking…",
+  "myMaterials": "My materials",
+  "materialsEntryHint": "Turn your lessons into practice questions after staff review.",
+  "materialsEmpty": "No materials yet",
+  "materialsEmptyHint": "Add text or a photo of your lesson to generate practice questions.",
+  "materialAdd": "Add material",
+  "materialKindText": "Text",
+  "materialKindImage": "Image",
+  "materialPrivate": "Private to your account",
+  "materialStatusReview": "Awaiting review",
+  "materialStatusReady": "Ready",
+  "materialStatusFailed": "Generation failed",
+  "materialStatusRejected": "Rejected",
+  "materialNoGeneration": "No questions yet",
+  "materialGenerate": "Generate questions",
+  "materialSourcePaste": "Pasted text",
+  "materialSourceFile": "Text file",
+  "materialSourcePhoto": "Page photo",
+  "materialSource": "Source",
+  "materialCreatedAt": "Added {date}",
+  "@materialCreatedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "materialTextLabel": "Material text",
+  "materialTextHint": "Paste the lesson text here (at least 100 characters).",
+  "materialTooShort": "The text is too short. Add at least 100 characters.",
+  "materialPickFile": "Choose file",
+  "materialNoFile": "No file chosen yet.",
+  "materialFileHint": ".txt, .md, or a PNG/JPEG image, up to 8 MB.",
+  "materialPdfDisabled": "PDF extraction is not supported yet. Upload a photo of the page or paste the text.",
+  "materialPrivacyNote": "The material stays private to your account and is not shared.",
+  "materialDraftKept": "Your material was kept. Try again when the connection returns.",
+  "materialSaved": "Material added",
+  "materialGradeHint": "A secondary grade is required to generate questions.",
+  "materialSubjectHint": "Pick a subject from the catalogue or type it.",
+  "materialGradeRequired": "Choose the grade.",
+  "materialSubjectRequired": "Enter a subject.",
+  "materialContinue": "Continue",
+  "generationConfirmTitle": "Generate questions",
+  "generationFrom": "From material: {name}",
+  "@generationFrom": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "generationCount": "Number of questions",
+  "generationTypes": "Supported types: multiple choice, true/false, fill in the blank, short answer.",
+  "generationReviewNote": "Generated questions are reviewed before use. No answer keys or practice start before approval.",
+  "generationCostNote": "The server charges when you confirm and reserves from your balance. It refunds if the request fails or the questions are rejected.",
+  "generationPriceServer": "The fee is set by the server on generation",
+  "generationAck": "I understand the questions need review before practice.",
+  "generationConfirm": "Confirm generation",
+  "generationProcessing": "Generating questions…",
+  "generationReviewStatus": "Awaiting staff review",
+  "generationReviewBody": "Your questions arrived and will be reviewed soon. You can leave this page and come back.",
+  "generationReadyBody": "We made a private set from your material and staff reviewed it. Open it to practise.",
+  "generationFailedBody": "Generation did not complete and nothing was charged. You can try again.",
+  "generationUnsafe": "The questions failed the safety check; nothing was charged.",
+  "generationRejectedBody": "The questions were not approved. Your credits were refunded if charged.",
+  "generationOrigin": "Generated from your material and reviewed by staff; not an official exam.",
+  "generationOpen": "Open the set",
+  "generationRefresh": "Refresh status",
+  "generationRefreshFailed": "Could not refresh the status. No new request was started.",
+  "generationCharged": "Charged {credits} credits.",
+  "@generationCharged": {
+    "placeholders": {
+      "credits": {
+        "type": "int"
+      }
+    }
+  },
+  "generationNoCharge": "Nothing was charged.",
+  "generationStatusTitle": "Generation status",
+  "generationBack": "Back to my materials",
+  "generationFailedStatus": "Generation failed",
+  "setByServer": "Set by the server",
+  "acknowledge": "I understand",
+  "errorAiDisabled": "AI features are switched off right now.",
+  "errorAiBudgetExceeded": "AI is paused until the budget is raised. Try later.",
+  "errorAiInvalidOutput": "The AI request did not complete. Try again.",
+  "errorAiContentUnsafe": "The questions failed the safety check; nothing was charged.",
+  "errorNotAiMarkable": "This question is not marked by AI.",
+  "errorAnswerAlreadyMarked": "This answer is already marked.",
+  "errorReviewAlreadyPending": "Your answer is already waiting for review.",
+  "errorAiInFlight": "AI marking is already running for this answer. Wait for it to finish, then refresh.",
+  "errorEmptyAnswer": "Write an answer before requesting marking.",
+  "errorClassLevelRequired": "Set your class in your account first.",
+  "errorMaterialRequired": "Attach a material first.",
+  "errorMaterialNotFound": "Material not found.",
+  "errorMaterialFileMissing": "The material file is no longer available. Add it again.",
+  "errorMaterialTypeNotAllowed": "Upload .txt, .md, or a PNG/JPEG image.",
+  "errorMaterialPdfNotSupported": "PDF extraction is not supported yet; upload an image or text.",
+  "errorMaterialTooLarge": "The material is too large. Maximum 8 MB.",
+  "errorMaterialTooShort": "The material is too short. Add at least 100 characters.",
+  "errorMaterialTooLong": "The material is too long. Split it into smaller parts.",
+  "errorMaterialUploadFailed": "Could not upload the material. Try again.",
+  "errorMaterialFieldInvalid": "The material file is invalid. Choose it again.",
+  "errorGenerationNotFound": "Generation request not found.",
+  "errorAiTimeout": "The AI service timed out. Try again.",
+  "errorAiUpstream": "Could not reach the AI service. Try later.",
+  "errorAiUnavailable": "AI is unavailable right now.",
+  "generationUnknown": "Unknown status",
+  "generationUnknownBody": "We could not read this request's status. Refresh, or contact support if it keeps happening."
+}

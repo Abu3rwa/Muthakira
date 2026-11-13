@@ -1,0 +1,1026 @@
+{
+  "@@locale": "ar",
+  "appName": "مذكرة",
+  "tagline": "ذاكر بذكاء",
+  "ok": "حسنًا",
+  "cancel": "إلغاء",
+  "retry": "إعادة المحاولة",
+  "save": "حفظ",
+  "continueLabel": "متابعة",
+  "back": "رجوع",
+  "next": "التالي",
+  "previous": "السابق",
+  "done": "تم",
+  "close": "إغلاق",
+  "copy": "نسخ",
+  "copied": "تم النسخ",
+  "share": "مشاركة",
+  "confirm": "تأكيد",
+  "search": "بحث",
+  "filters": "التصفية",
+  "clearFilters": "مسح التصفية",
+  "apply": "تطبيق",
+  "viewPaper": "عرض الورقة",
+  "previewQuestions": "معاينة الأسئلة",
+  "topUpBalance": "شحن الرصيد",
+  "browseExams": "تصفّح الامتحانات",
+  "balanceShort": "الرصيد",
+  "walletUnavailable": "تعذّر تحديث الرصيد",
+  "showMore": "المزيد",
+  "showLess": "أقل",
+  "loading": "جارٍ التحميل…",
+  "comingSoon": "قريبًا",
+  "comingSoonHint": "هذه الميزة غير متوفرة بعد. نعمل عليها.",
+  "offline": "لا يوجد اتصال",
+  "offlineBanner": "أنت غير متصل. تعرض البيانات المحفوظة.",
+  "serverWaking": "الخادم يستيقظ…",
+  "serverWakingHint": "قد يستغرق التشغيل الأول بضع ثوانٍ. شكرًا لصبرك.",
+  "errorTitle": "تعذّر إكمال الطلب",
+  "emptyTitle": "لا يوجد شيء هنا بعد",
+  "lastUpdated": "آخر تحديث {time}",
+  "@lastUpdated": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "savedBadge": "محفوظ",
+  "pendingSyncBadge": "بانتظار المزامنة",
+  "requiredField": "هذا الحقل مطلوب",
+  "optional": "اختياري",
+  "seeAll": "عرض الكل",
+  "version": "الإصدار {value}",
+  "@version": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "support": "الدعم",
+  "contactSupport": "تواصل مع الدعم",
+  "terms": "الشروط",
+  "privacy": "الخصوصية",
+  "logout": "تسجيل الخروج",
+  "logoutConfirmTitle": "تسجيل الخروج؟",
+  "logoutConfirmBody": "سيتم حذف البيانات المحفوظة على هذا الجهاز. ستحتاج إلى تسجيل الدخول مرة أخرى.",
+  "sdg": "جنيه",
+  "creditsLabel": "رصيد",
+  "available": "المتاح",
+  "reserved": "المحجوز",
+  "balance": "الرصيد",
+  "notAvailable": "—",
+  "chooseLanguage": "اختر اللغة",
+  "chooseLanguageHint": "يمكنك تغييرها لاحقًا من الإعدادات.",
+  "preferredLanguage": "لغة التطبيق المفضلة",
+  "preferredLanguageHint": "تُحفظ مع حسابك وتُغيّر لغة الواجهة.",
+  "arabic": "العربية",
+  "english": "English",
+  "welcomeTitle": "امتحانات الشهادة السودانية بين يديك",
+  "welcomeBody": "ذاكر بذكاء مع امتحانات السنوات السابقة وتصحيح فوري.",
+  "welcomePoint1": "امتحانات رسمية مصنّفة حسب المادة والسنة",
+  "welcomePoint2": "تصحيح فوري لكل سؤال مع الإجابة النموذجية",
+  "welcomePoint3": "اشترِ رصيدًا عبر بنكك بسهولة",
+  "getStarted": "ابدأ الآن",
+  "haveAccount": "لديك حساب؟ تسجيل الدخول",
+  "signIn": "تسجيل الدخول",
+  "signUp": "إنشاء حساب",
+  "name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "emailHint": "you@example.com",
+  "phone": "رقم الهاتف",
+  "password": "كلمة المرور",
+  "newPassword": "كلمة المرور الجديدة",
+  "classLevel": "الصف الدراسي",
+  "stream": "الشعبة",
+  "other": "أخرى",
+  "language": "اللغة",
+  "termsAccept": "أوافق على الشروط وسياسة الخصوصية",
+  "termsTitle": "الشروط والأحكام",
+  "privacyTitle": "سياسة الخصوصية",
+  "recoveryCodeTitle": "رمز الاسترجاع الخاص بك",
+  "recoveryCodeBody": "هذا هو الرمز الوحيد الذي يتيح لك إعادة تعيين كلمة المرور إذا نسيتها. احفظه في مكان آمن.",
+  "recoveryCodeWarning": "لن نعرض هذا الرمز مرة أخرى. لا تشاركه مع أحد.",
+  "iSavedIt": "لقد حفظت الرمز في مكان آمن",
+  "recoveryCodeCopied": "تم نسخ رمز الاسترجاع",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "forgotPasswordTitle": "استعادة كلمة المرور",
+  "forgotPasswordBody": "أدخل بريدك الإلكتروني وسنرسل لك رمزًا من ٦ أرقام لإعادة تعيين كلمة المرور.",
+  "forgotPasswordCodeBody": "أدخل الرمز المكوّن من ٦ أرقام من البريد، ثم اختر كلمة مرور جديدة.",
+  "resetCode": "رمز إعادة التعيين",
+  "resetCodeHint": "الرمز المكوّن من ٦ أرقام من البريد",
+  "resetCodeSentTo": "إذا كان {email} مسجّلًا لدينا فسيصلك رمز الآن. تحقق من مجلد الرسائل المزعجة أيضًا.",
+  "@resetCodeSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "sendResetCode": "أرسل لي رمزًا بالبريد",
+  "resendCode": "أرسل رمزًا جديدًا",
+  "useSavedRecoveryCode": "استخدام رمز الاسترجاع المحفوظ",
+  "useEmailedCode": "استخدام رمز البريد الإلكتروني",
+  "resetCodeExpiry": "تنتهي صلاحية الرمز خلال {minutes} دقيقة.",
+  "@resetCodeExpiry": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "passwordChangedBody": "تم تغيير كلمة المرور. سجّل الدخول بكلمة المرور الجديدة.",
+  "recoveryCode": "رمز الاسترجاع",
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  "resetSuccessTitle": "تم تغيير كلمة المرور",
+  "resetSuccessBody": "احفظ رمز الاسترجاع الجديد، ثم سجّل الدخول بكلمة المرور الجديدة.",
+  "blockedTitle": "الحساب موقوف",
+  "blockedBody": "تم إيقاف هذا الحساب. تواصل مع الدعم للمساعدة.",
+  "phoneHint": "مثال: 0912345678",
+  "passwordHint": "٨ أحرف على الأقل",
+  "nameHint": "اسمك كما يظهر في الشهادة",
+  "classLevelHint": "اختر صفك الدراسي",
+  "streamHint": "علمي أو أدبي",
+  "showPassword": "إظهار كلمة المرور",
+  "hidePassword": "إخفاء كلمة المرور",
+  "passwordWeak": "ضعيفة",
+  "passwordMedium": "متوسطة",
+  "passwordStrong": "قوية",
+  "secondary1": "الأول الثانوي",
+  "secondary2": "الثاني الثانوي",
+  "secondary3": "الثالث الثانوي (الشهادة السودانية)",
+  "streamScience": "علمي",
+  "streamLiterary": "أدبي",
+  "sessionExpired": "انتهت الجلسة. سجّل الدخول مرة أخرى.",
+  "walletTitle": "المحفظة",
+  "availableCredits": "الرصيد المتاح",
+  "reservedHint": "{count} من رصيدك محجوز لطلب دفع قيد المراجعة.",
+  "@reservedHint": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "nextExpiry": "أقرب انتهاء صلاحية",
+  "expirySoon": "ينتهي جزء من رصيدك في {date}. استخدمه قبل ذلك.",
+  "@expirySoon": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "lowCredits": "رصيدك منخفض. أضف رصيدًا لمواصلة المذاكرة.",
+  "addCredit": "إضافة رصيد",
+  "ledgerTitle": "سجل الرصيد",
+  "ledgerEmpty": "لا توجد حركات بعد",
+  "ledgerEmptyHint": "ستظهر هنا كل إضافة أو استخدام للرصيد.",
+  "entrySignupBonus": "رصيد الترحيب",
+  "entryPurchase": "شراء رصيد",
+  "entrySpend": "استخدام رصيد",
+  "entryExpiry": "انتهاء صلاحية الرصيد",
+  "entryAdminAdjust": "تعديل من الإدارة",
+  "entryExamUnlock": "فتح امتحان {key}",
+  "@entryExamUnlock": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "entryPaymentApproved": "اعتماد الدفع {code}",
+  "entryUnlockShort": "فتح ورقة",
+  "entryPaymentApprovedShort": "اعتماد دفع",
+  "@entryPaymentApproved": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "creditsCount": "{count, plural, zero{لا رصيد} one{رصيد واحد} two{رصيدان} few{{count} أرصدة} many{{count} رصيدًا} other{{count} رصيد}}",
+  "@creditsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "examsTitle": "الامتحانات",
+  "subject": "المادة",
+  "year": "السنة",
+  "session": "الدورة",
+  "allSubjects": "كل المواد",
+  "allYears": "كل السنوات",
+  "allSessions": "كل الدورات",
+  "allLanguages": "كل اللغات",
+  "free": "مجاني",
+  "unlocked": "مفتوح",
+  "locked": "مقفل",
+  "lockedFor": "مقفل · {count}",
+  "@lockedFor": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "unlockFor": "افتح مقابل {count}",
+  "@unlockFor": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "unlockConfirmTitle": "فتح هذا الامتحان؟",
+  "unlockConfirmBody": "سيُخصم {cost} من رصيدك. رصيدك الحالي {balance}.",
+  "@unlockConfirmBody": {
+    "placeholders": {
+      "cost": {
+        "type": "String"
+      },
+      "balance": {
+        "type": "String"
+      }
+    }
+  },
+  "balanceAfter": "الرصيد بعد الفتح (تقديري): {value}",
+  "@balanceAfter": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "unlock": "فتح الامتحان",
+  "unlockSuccess": "تم فتح الامتحان. بالتوفيق!",
+  "startPractice": "ابدأ التدريب",
+  "resumePractice": "أكمل التدريب",
+  "practiceDisabled": "التدريب غير متاح",
+  "practiceDisabledHint": "أوقفت الإدارة التدريب على هذا الامتحان. يمكنك قراءته فقط.",
+  "paperViewer": "قراءة الامتحان",
+  "instructions": "التعليمات",
+  "totalMarks": "{count} درجة",
+  "@totalMarks": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "durationMinutes": "{count, plural, zero{بدون وقت} one{دقيقة واحدة} two{دقيقتان} few{{count} دقائق} many{{count} دقيقة} other{{count} دقيقة}}",
+  "@durationMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "questionCount": "{count, plural, zero{لا أسئلة} one{سؤال واحد} two{سؤالان} few{{count} أسئلة} many{{count} سؤالًا} other{{count} سؤال}}",
+  "@questionCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "myUnlocks": "امتحاناتي المفتوحة",
+  "myUnlocksEmpty": "لم تفتح أي امتحان بعد",
+  "myUnlocksEmptyHint": "افتح امتحانًا ليظهر هنا ويصبح متاحًا دون اتصال.",
+  "yourOpenPapers": "أوراقك المفتوحة",
+  "partialPapersFailed": "{count, plural, zero{تعذّر تحميل بعض الأوراق} one{تعذّرت ورقة واحدة} two{تعذّرت ورقتان} few{تعذّر تحميل {count} أوراق} many{تعذّر تحميل {count} ورقة} other{تعذّر تحميل {count} ورقة}}",
+  "@partialPapersFailed": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "viewKeys": "الإجابات النموذجية",
+  "trialBadge": "تجريبي",
+  "examNotFound": "لم نعثر على هذا الامتحان",
+  "noExams": "لا توجد امتحانات مطابقة",
+  "noExamsHint": "جرّب تغيير التصفية أو البحث بكلمة أخرى.",
+  "searchExams": "ابحث عن مادة أو سنة",
+  "stimulusTitle": "النص",
+  "questionLabel": "سؤال {path}",
+  "@questionLabel": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "answerKey": "الإجابة الصحيحة",
+  "explanation": "الشرح",
+  "modelAnswer": "إجابة نموذجية",
+  "criteria": "معايير التصحيح",
+  "acceptedAlternatives": "إجابات بديلة مقبولة",
+  "lockedQuestionHint": "افتح الامتحان لرؤية هذا السؤال وإجابته.",
+  "fieldTooShort": "يجب ألا يقل عن {min} حرفًا",
+  "@fieldTooShort": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldTooLong": "يجب ألا يزيد عن {max} حرفًا",
+  "@fieldTooLong": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldPhoneInvalid": "أدخل رقم هاتف صحيح",
+  "fieldPasswordShort": "كلمة المرور يجب أن تكون ٨ أحرف على الأقل",
+  "fieldTermsRequired": "عليك الموافقة على الشروط للمتابعة",
+  "fieldAnswerRequired": "اكتب إجابتك أولًا",
+  "practiceTitle": "التدريب",
+  "questionOf": "سؤال {current} من {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "checkAnswer": "تحقق من الإجابة",
+  "nextQuestion": "السؤال التالي",
+  "previousQuestion": "السؤال السابق",
+  "finishPractice": "إنهاء التدريب",
+  "finishConfirmTitle": "إنهاء جلسة التدريب؟",
+  "finishConfirmBody": "يمكنك مراجعة إجاباتك لاحقًا في شاشة النتيجة.",
+  "correct": "إجابة صحيحة",
+  "incorrect": "إجابة غير صحيحة",
+  "partlyCorrect": "صحيح جزئيًا — {awarded} من {total}",
+  "@partlyCorrect": {
+    "placeholders": {
+      "awarded": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "marksAwarded": "{value} درجة",
+  "@marksAwarded": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "marksWorth": "تساوي {value} درجة",
+  "@marksWorth": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "answerSaved": "تم حفظ إجابتك",
+  "answerSubmitted": "أُرسل للتصحيح",
+  "savedOnDevice": "محفوظ على هذا الجهاز",
+  "waitingToSend": "بانتظار الإرسال",
+  "checkDisabledHint": "اختر إجابة أو اكتبها لتفعيل التحقق.",
+  "moveUp": "تحريك لأعلى",
+  "moveDown": "تحريك لأسفل",
+  "structureUnavailable": "لا تتوفر بيانات كافية لعرض هذا النوع من الأسئلة. أبلغ عن السؤال لتتم مراجعته.",
+  "currentLabel": "الحالي",
+  "backToQuestions": "العودة للأسئلة",
+  "pendingUploadCount": "{count, plural, one{إجابة واحدة بانتظار الإرسال} two{إجابتان بانتظار الإرسال} few{{count} إجابات بانتظار الإرسال} many{{count} إجابة بانتظار الإرسال} other{{count} إجابة بانتظار الإرسال}}",
+  "@pendingUploadCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "provisionalScore": "نتيجة مبدئية",
+  "finalScore": "النتيجة النهائية",
+  "newPractice": "تدريب جديد",
+  "yourAnswerUnavailable": "إجابتك غير متاحة على هذا الجهاز.",
+  "keyUnavailable": "الإجابة غير متاحة حاليًا.",
+  "pendingSelf": "تم الحفظ. صحّح هذا السؤال بنفسك بمقارنة إجابتك بالإجابة النموذجية.",
+  "pendingAi": "تم الحفظ. يمكنك طلب تصحيح بالذكاء الاصطناعي عبر زر مستقل.",
+  "tryAgain": "حاول مرة أخرى",
+  "tryAgainAiWarning": "إعادة الإجابة على سؤال صُحّح بالذكاء الاصطناعي تتطلب تصحيحًا جديدًا مدفوعًا.",
+  "reportTextHint": "تفاصيل إضافية (اختياري، ٥ أحرف على الأقل)",
+  "attemptsCount": "المحاولة {count}",
+  "@attemptsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "questionNavigator": "خريطة الأسئلة",
+  "answeredLabel": "تمت الإجابة",
+  "unansweredLabel": "بدون إجابة",
+  "pendingLabel": "بانتظار التصحيح",
+  "reportQuestion": "أبلغ عن سؤال",
+  "reportReasonLabel": "ما المشكلة؟",
+  "reportReasonHint": "اشرح المشكلة (٥ أحرف على الأقل)",
+  "reportSent": "تم إرسال البلاغ. شكرًا لك.",
+  "resultTitle": "النتيجة",
+  "scoreOf": "{awarded} من {total}",
+  "@scoreOf": {
+    "placeholders": {
+      "awarded": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "resultPendingNote": "الأسئلة التي لم تُصحّح بعد غير محسوبة في الدرجة.",
+  "reviewAnswers": "مراجعة الإجابات",
+  "retryWrong": "أعد الأسئلة الخاطئة",
+  "backToExams": "العودة إلى الامتحانات",
+  "sectionBreakdown": "حسب الأقسام",
+  "yourAnswer": "إجابتك",
+  "noAnswer": "لم تُجب",
+  "answerHintText": "اكتب إجابتك هنا",
+  "selectOne": "اختر إجابة واحدة",
+  "selectAllThatApply": "اختر كل الإجابات الصحيحة",
+  "trueLabel": "صح",
+  "falseLabel": "خطأ",
+  "blankLabel": "الفراغ {index}",
+  "@blankLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "cellLabel": "صف {row}، عمود {column}",
+  "@cellLabel": {
+    "placeholders": {
+      "row": {
+        "type": "String"
+      },
+      "column": {
+        "type": "String"
+      }
+    }
+  },
+  "reorderHint": "اسحب لترتيب العناصر",
+  "orderingItemLabel": "العنصر {index} من {total}",
+  "@orderingItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "numericKeyboardHint": "أدخل رقمًا (تُقبل الأرقام العربية والفواصل العشرية)",
+  "matchWith": "طابق مع",
+  "numericHint": "أدخل رقمًا",
+  "selfMarkTitle": "صحّح بنفسك",
+  "selfMarkHint": "قارن إجابتك بالإجابة النموذجية ثم قيّم نفسك. تُرسل الدرجة إلى الخادم وتُحتسب في نتيجتك.",
+  "selfMarkGotIt": "أجبت بشكل صحيح",
+  "selfMarkPartial": "أجبت جزئيًا",
+  "selfMarkMissed": "لم أُجب بشكل صحيح",
+  "offlineQueued": "لا يوجد اتصال. حُفظت إجابتك وستُرسل عند عودة الاتصال.",
+  "attemptClosedTitle": "أُغلقت الجلسة",
+  "startNewAttempt": "ابدأ جلسة جديدة",
+  "resumeTitle": "أكمل من حيث توقفت",
+  "packagesTitle": "باقات الرصيد",
+  "pricePerCredit": "{value} للرصيد الواحد",
+  "@pricePerCredit": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "buyPackage": "اشترِ هذه الباقة",
+  "paymentsTitle": "مدفوعاتي",
+  "paymentsEmpty": "لا توجد طلبات دفع",
+  "paymentsEmptyHint": "اختر باقة رصيد وحوّل المبلغ عبر بنكك، ثم ارفع الإيصال هنا.",
+  "paymentInstructionsTitle": "طريقة الدفع",
+  "stepAmount": "١. حوّل هذا المبلغ بالضبط",
+  "stepBank": "٢. إلى هذا الحساب",
+  "stepBankak": "٣. أتم التحويل من تطبيق بنكك",
+  "stepReceipt": "٤. ارفع الإيصال وأدخل رقم العملية",
+  "stepStatus": "٥. تابع حالة الطلب",
+  "exactAmountWarning": "حوّل نفس المبلغ تمامًا. أي اختلاف يؤخر الاعتماد.",
+  "bankName": "اسم البنك",
+  "accountName": "اسم الحساب",
+  "accountNumber": "رقم الحساب",
+  "paymentCode": "رمز الدفع",
+  "openBankak": "افتح تطبيق بنكك",
+  "bankakNotInstalled": "تطبيق بنكك غير مثبت على هذا الجهاز.",
+  "reviewTimeHint": "تُراجع الطلبات عادة خلال بضع ساعات.",
+  "referenceLabel": "رقم العملية",
+  "senderNameLabel": "اسم المرسل",
+  "receiptLabel": "صورة الإيصال",
+  "takePhoto": "التقط صورة",
+  "chooseFromGallery": "اختر من المعرض",
+  "choosePdf": "اختر ملف PDF",
+  "receiptPreview": "معاينة الإيصال",
+  "submitReceipt": "إرسال الإيصال",
+  "receiptUploading": "جارٍ رفع الإيصال…",
+  "receiptTooLargeLocal": "الملف أكبر من ٨ ميغابايت. اختر صورة أصغر.",
+  "receiptTypeInvalidLocal": "نوع الملف غير مدعوم. استخدم JPEG أو PNG أو WebP أو PDF.",
+  "cameraRationaleTitle": "نحتاج إذن الكاميرا",
+  "cameraRationaleBody": "نستخدم الكاميرا لتصوير إيصال التحويل فقط. لا نصل إلى أي صور أخرى بدون اختيارك.",
+  "statusPendingPayment": "بانتظار الدفع",
+  "statusSubmitted": "أُرسل",
+  "statusUnderReview": "قيد المراجعة",
+  "statusNeedsInfo": "معلومات ناقصة",
+  "statusApproved": "معتمد",
+  "statusRejected": "مرفوض",
+  "statusExpired": "منتهي",
+  "statusCancelled": "ملغي",
+  "timelineCreated": "أُنشئ الطلب",
+  "timelineSubmitted": "أُرسل الإيصال",
+  "timelineReviewed": "قيد المراجعة",
+  "timelineDecided": "القرار",
+  "rejectReasonLabel": "سبب الرفض",
+  "resubmit": "إعادة الإرسال",
+  "cancelRequest": "إلغاء الطلب",
+  "cancelConfirmTitle": "إلغاء طلب الدفع؟",
+  "cancelConfirmBody": "سيُلغى هذا الطلب ويمكنك إنشاء طلب جديد لاحقًا.",
+  "paymentApprovedTitle": "تمت إضافة الرصيد!",
+  "viewReceipt": "عرض الإيصال",
+  "expectedAmountLabel": "المبلغ المطلوب تحويله",
+  "homeTitle": "الرئيسية",
+  "greeting": "أهلًا {name}",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "recommendedForYou": "مقترح لك",
+  "quickActions": "إجراءات سريعة",
+  "newPapers": "أحدث الامتحانات",
+  "continueStudying": "أكمل المذاكرة",
+  "profileTitle": "حسابي",
+  "settingsTitle": "الإعدادات",
+  "appearance": "المظهر",
+  "appearanceHint": "اختر المظهر الذي يريح عينك.",
+  "groupReading": "القراءة",
+  "groupLanguageNumbers": "اللغة والأرقام",
+  "groupData": "البيانات والتخزين",
+  "groupHelp": "الدعم والتشخيص",
+  "readingSample": "اقْرَأْ بِتَمَهُّلٍ، وَرَاجِعْ دَرْسَكَ كُلَّ يَوْمٍ.",
+  "appLanguageHint": "لغة الأزرار والقوائم والرسائل.",
+  "digitStyleHint": "شكل الأرقام فقط؛ لا يغيّر اللغة.",
+  "themeSystem": "حسب النظام",
+  "themeLight": "فاتح",
+  "themeDark": "داكن",
+  "textSize": "حجم النص",
+  "digitStyle": "شكل الأرقام",
+  "digitsArabic": "١٢٣ عربية",
+  "digitsWestern": "123 غربية",
+  "dataSaver": "توفير البيانات",
+  "dataSaverHint": "لا تُنزّل الإجابات النموذجية أو الأوراق الكبيرة تلقائيًا.",
+  "clearCache": "مسح البيانات المحفوظة",
+  "clearCacheConfirmTitle": "مسح البيانات المحفوظة؟",
+  "clearCacheConfirmBody": "سيتم حذف الأوراق والإجابات المحفوظة والمسودات والإجابات التي لم تُرسَل بعد من هذا الجهاز. يبقى رصيدك وحسابك وتسجيل الدخول كما هي.",
+  "clearCacheIncludesQueue": "المسودات والإجابات المنتظرة للإرسال ستُحذف أيضًا.",
+  "cacheCleared": "تم مسح البيانات المحفوظة",
+  "paymentHelp": "مساعدة الدفع",
+  "reportProblem": "أبلغ عن مشكلة",
+  "reportProblemHint": "يشارك سجل الأخطاء الأخير بدون أي بيانات شخصية.",
+  "deleteAccount": "حذف الحساب",
+  "deleteAccountHint": "حذف الحساب غير متاح آليًا بعد. تواصل مع الدعم وسنقوم به يدويًا.",
+  "aboutAndLegal": "عن التطبيق والقانون",
+  "appLanguage": "لغة التطبيق",
+  "aboutApp": "عن التطبيق",
+  "diagnosticsEmpty": "لا توجد أخطاء مسجلة",
+  "sendReport": "إرسال التقرير",
+  "forceUpdateTitle": "تحديث مطلوب",
+  "forceUpdateBody": "يتوفر إصدار أحدث. حدّث التطبيق من المتجر ثم افتحه من جديد.",
+  "notFoundTitle": "الصفحة غير موجودة",
+  "maintenanceTitle": "الخدمة غير متاحة مؤقتًا",
+  "errorUnauthorized": "انتهت الجلسة. سجّل الدخول مرة أخرى.",
+  "errorInvalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+  "errorInvalidToken": "انتهت الجلسة. سجّل الدخول مرة أخرى.",
+  "errorInvalidRefreshToken": "انتهت الجلسة. سجّل الدخول مرة أخرى.",
+  "errorAccountBlocked": "هذا الحساب موقوف. تواصل مع الدعم.",
+  "errorForbidden": "لا تملك صلاحية لهذا الإجراء.",
+  "errorNotFound": "لم نعثر على ما تبحث عنه.",
+  "errorPhoneTaken": "رقم الهاتف مسجّل بالفعل. جرّب تسجيل الدخول.",
+  "errorEmailTaken": "هذا البريد الإلكتروني مسجّل بالفعل. جرّب تسجيل الدخول.",
+  "errorInvalidEmail": "أدخل بريدًا إلكترونيًا صحيحًا.",
+  "errorInvalidResetCode": "الرمز غير صحيح أو انتهت صلاحيته.",
+  "errorMailNotConfigured": "إرسال البريد غير مُهيّأ على الخادم بعد. تواصل مع الدعم.",
+  "errorMailSendFailed": "تعذّر إرسال البريد. حاول بعد قليل.",
+  "errorInvalidPhone": "أدخل رقم هاتف سوداني صحيح، مثال: 0912345678.",
+  "errorReceiptUploadFailed": "تعذّر رفع الإيصال. حاول مرة أخرى.",
+  "errorStudentOnly": "هذا الإجراء متاح للطلاب فقط.",
+  "errorInvalidRecoveryCode": "رمز الاسترجاع غير صحيح.",
+  "errorValidationError": "راجع الحقول المشار إليها بالأحمر.",
+  "errorRateLimited": "طلبات كثيرة جدًا. انتظر لحظة ثم حاول مجددًا.",
+  "errorInsufficientCredits": "رصيدك لا يكفي. أضف رصيدًا للمتابعة.",
+  "errorExamNotFound": "لم نعثر على هذا الامتحان.",
+  "errorExamLocked": "هذا الامتحان مقفل. افتحه أولًا.",
+  "errorPracticeDisabled": "التدريب غير متاح لهذا الامتحان.",
+  "errorQuestionNotFound": "لم نعثر على هذا السؤال.",
+  "errorQuestionNotAnswerable": "أجب عن الأسئلة الفرعية، وليس عن القسم نفسه.",
+  "errorAttemptNotFound": "لم نعثر على جلسة التدريب.",
+  "errorAttemptClosed": "أُغلقت جلسة التدريب. ابدأ جلسة جديدة.",
+  "errorDuplicateValue": "هذه القيمة مستخدمة بالفعل.",
+  "errorPackageNotFound": "باقة الرصيد هذه لم تعد متاحة.",
+  "errorPaymentAccountNotConfigured": "حساب الاستلام غير مهيأ بعد. تواصل مع الدعم.",
+  "errorTooManyOpenPayments": "لديك طلبات دفع مفتوحة. أكمل أحدها أو ألغِه أولًا.",
+  "errorPaymentAmountsExhausted": "لا توجد مبالغ متاحة الآن. حاول بعد قليل.",
+  "errorPaymentRequestNotFound": "لم نعثر على طلب الدفع.",
+  "errorPaymentNotSubmittable": "لم يعد بالإمكان إرسال هذا الطلب.",
+  "errorPaymentNotCancellable": "لا يمكن إلغاء طلب أُرسل بالفعل.",
+  "errorInvalidReference": "أدخل رقم العملية من بنكك (٤ أحرف على الأقل).",
+  "errorReferenceAlreadyUsed": "رقم العملية هذا مستخدم في طلب دفع آخر.",
+  "errorReceiptNotFound": "لم نعثر على الإيصال.",
+  "errorReceiptAlreadyAttached": "هذا الإيصال مرتبط بطلب دفع آخر.",
+  "errorReceiptTooLarge": "حجم الإيصال كبير جدًا. الحد الأقصى ٨ ميغابايت.",
+  "errorReceiptTypeNotAllowed": "ارفع صورة JPEG أو PNG أو WebP أو ملف PDF.",
+  "errorReceiptFieldInvalid": "ملف الإيصال غير صالح.",
+  "errorReceiptRequired": "أرفق صورة الإيصال أولًا.",
+  "errorReceiptFileMissing": "لم يصل الملف. حاول مرة أخرى.",
+  "errorReportAlreadyOpen": "لقد أبلغت عن هذا السؤال بالفعل. نحن نراجعه.",
+  "errorInvalidCursor": "تعذّر تحميل المزيد. حدّث القائمة.",
+  "errorInternalError": "حدث خطأ في الخادم. حاول مرة أخرى.",
+  "errorNetworkError": "لا يوجد اتصال بالإنترنت. تحقق من الشبكة وحاول مجددًا.",
+  "errorCacheError": "تعذّر قراءة البيانات المحفوظة.",
+  "errorUnknown": "حدث خطأ غير متوقع. حاول مرة أخرى.",
+  "skip": "تخطٍ",
+  "all": "الكل",
+  "show": "إظهار",
+  "hide": "إخفاء",
+  "yes": "نعم",
+  "no": "لا",
+  "errorHint": "تحقق من اتصالك ثم حاول مرة أخرى.",
+  "errorTimeout": "استغرق الخادم وقتًا طويلًا. حاول مرة أخرى.",
+  "errorFallback": "حدث خطأ غير متوقع ({code}).",
+  "@errorFallback": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "termsBody": "باستخدامك مذكرة فإنك توافق على استخدام التطبيق للدراسة الشخصية فقط. الأوراق مملوكة لجهاتها الأصلية وتُعرض لأغراض تعليمية. نحتفظ برقم هاتفك واسمك وسجل مدفوعاتك لتشغيل حسابك، ولا نشاركها مع جهات أخرى. لا تشارك رمز الاستعادة مع أي شخص.",
+  "aboutBody": "مذكرة تطبيق لطلاب الشهادة السودانية: أوراق رسمية، تدريب بتصحيح فوري، وشراء رصيد عبر بنكك.",
+  "maintenanceBody": "نحدّث الخدمة الآن. حاول بعد قليل.",
+  "notFoundBody": "الرابط غير صحيح أو تغيّر.",
+  "goHome": "الرئيسية",
+  "designGallery": "معرض التصميم",
+  "reportReason1": "السؤال غير واضح",
+  "reportReason2": "الإجابة النموذجية خاطئة",
+  "reportReason3": "خطأ مطبعي في النص",
+  "reportReason4": "مشكلة أخرى",
+  "matchingInstruction": "اختر الحرف المناسب لكل عنصر",
+  "orderingInstruction": "رتّب العناصر بالترتيب الصحيح",
+  "tableInstruction": "أكمل خلايا الجدول",
+  "matrixInstruction": "أدخل قيم المصفوفة في الخلايا",
+  "truthTableInstruction": "أكمل عمود الناتج في جدول الحقيقة",
+  "truthTableOutput": "الناتج",
+  "multiInstruction": "اختر كل الإجابات الصحيحة",
+  "diacriticsInstruction": "اكتب النص مع التشكيل الكامل",
+  "fillBlankInstruction": "أكمل الفراغات داخل النص",
+  "blueprint": "ملاحظة: يمكنك استخدام ورقة وقلم للحساب.",
+  "streamNone": "بدون شعبة",
+  "otherOption": "أخرى (اكتبها)",
+  "loginTitle": "أهلًا بعودتك",
+  "loginSubtitle": "سجّل الدخول لمتابعة مذاكرتك.",
+  "signupTitle": "أنشئ حسابك",
+  "signupSubtitle": "دقائق وتكون جاهزًا للتدريب.",
+  "noAccount": "ليس لديك حساب؟",
+  "recoverySavedHint": "ضع علامة بعد حفظ الرمز في مكان آمن للمتابعة.",
+  "signupBonus": "رصيد ترحيبي في حسابك",
+  "cooldownTitle": "محاولات كثيرة",
+  "cooldownBody": "انتظر قليلًا قبل المحاولة مرة أخرى.",
+  "home": "الرئيسية",
+  "exams": "الاوراق",
+  "practice": "التدريب",
+  "wallet": "المحفظة",
+  "profile": "حسابي",
+  "continueBody": "لديك جلسة تدريب مفتوحة على {paper}.",
+  "@continueBody": {
+    "placeholders": {
+      "paper": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingPaymentBanner": "لديك طلب دفع قيد المراجعة.",
+  "viewPayment": "عرض الطلب",
+  "paperContents": "محتويات الورقة",
+  "insufficientTitle": "الرصيد لا يكفي",
+  "insufficientBody": "تحتاج {needed} إضافية لفتح هذه الورقة.",
+  "@insufficientBody": {
+    "placeholders": {
+      "needed": {
+        "type": "String"
+      }
+    }
+  },
+  "keysLocked": "افتح الورقة لعرض الإجابات.",
+  "answeredCount": "أجبت عن {count}",
+  "@answeredCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyPractice": "لا توجد أوراق للتدريب بعد",
+  "emptyPracticeHint": "افتح ورقة من تبويب الأوراق أولًا.",
+  "noPackages": "لا توجد باقات متاحة",
+  "noPackagesHint": "حاول لاحقًا أو تواصل مع الدعم.",
+  "confirmPackageTitle": "تأكيد الطلب",
+  "confirmPackageBody": "سننشئ طلب دفع بقيمة {price} لباقة {credits}.",
+  "@confirmPackageBody": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "credits": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmPackage": "أنشئ طلب الدفع",
+  "packageCredits": "{count} رصيد",
+  "@packageCredits": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "choosePackage": "اختر باقة",
+  "referenceHint": "الرقم الظاهر في إشعار التحويل",
+  "paymentSubmitted": "وصل طلبك. سنراجعه قريبًا.",
+  "timeline": "مراحل الطلب",
+  "requestCancelled": "أُلغي الطلب.",
+  "receiptMissing": "لا يوجد إيصال مرفق",
+  "paymentHelpBody": "إذا تأخرت المراجعة أو رُفض الطلب، تواصل مع الدعم مع رمز الدفع.",
+  "expectedAmountCopy": "نسخ المبلغ",
+  "openReceiptFile": "فتح الملف",
+  "removeFile": "إزالة الملف",
+  "receiptLoadFailed": "تعذّر عرض الإيصال. حاول مرة أخرى.",
+  "availableNow": "متاح للاستخدام الآن",
+  "reservedNotSpendable": "المحجوز مرتبط بطلب دفع قيد المراجعة ولا يمكن استخدامه الآن.",
+  "balanceStaleHint": "هذا الرصيد محفوظ من آخر تحديث ناجح. اسحب لأسفل للتحديث.",
+  "loadMoreLedger": "تحميل حركات أقدم",
+  "ledgerLoadMoreFailed": "تعذّر تحميل المزيد. الحركات المعروضة تبقى كما هي.",
+  "ledgerAllShown": "عرضت كل الحركات",
+  "selectPackageHint": "اختر باقة ثم تابع الدفع إلى صفحة التحويل.",
+  "continueToPayment": "متابعة الدفع",
+  "openRequestNotice": "لديك طلب دفع مفتوح. أكمل إرسال إيصاله أو ألغِه قبل إنشاء طلب جديد.",
+  "manualReviewNotice": "يراجع فريق الدعم الإيصال يدويًا قبل إضافة الرصيد.",
+  "nextActionLabel": "الإجراء التالي",
+  "refreshStatus": "تحديث الحالة",
+  "paymentStatusExplainPending": "لم يُرسل الإيصال بعد. حوّل المبلغ بالضبط ثم أرفق الإيصال.",
+  "paymentStatusExplainSubmitted": "وصل طلبك وهو بانتظار بدء المراجعة. لا حاجة لأي إجراء الآن.",
+  "paymentStatusExplainUnderReview": "يراجع فريق الدعم الإيصال الآن. لا حاجة لأي إجراء.",
+  "paymentStatusExplainNeedsInfo": "تحتاج الإدارة معلومات إضافية. راجع الملاحظة ثم أعد إرسال الإيصال.",
+  "paymentStatusExplainApproved": "اعتُمد الطلب وأُضيف الرصيد إلى محفظتك.",
+  "paymentStatusExplainRejected": "رُفض الإيصال. راجع السبب قبل إرسال طلب جديد.",
+  "paymentStatusExplainExpired": "انتهت صلاحية الطلب دون إرساله. ابدأ طلبًا جديدًا من الباقات.",
+  "paymentStatusExplainCancelled": "أُلغي هذا الطلب ولن يُضاف رصيد.",
+  "paymentStatusExplainUnknown": "حالة الطلب غير معروفة. حدّث الحالة أو تواصل مع الدعم.",
+  "requestSummaryTitle": "ملخص الطلب",
+  "receiptSourceTitle": "اختر مصدر الإيصال",
+  "galleryRationaleTitle": "اختيار صورة من المعرض",
+  "galleryRationaleBody": "سنفتح معرض الصور لاختيار صورة الإيصال فقط.",
+  "receiptPrepareFailed": "تعذّر تجهيز الملف. جرّب صورة أخرى أو ملف PDF.",
+  "receiptReading": "نقرأ رقم العملية من الإيصال…",
+  "receiptExtracted": "كتبنا لك رقم العملية واسم المحوّل من الإيصال. راجعهما قبل الإرسال.",
+  "receiptExtractManual": "لم نستطع قراءة رقم العملية من الإيصال. اكتبه بنفسك من الإيصال.",
+  "receiptAcceptedTitle": "الملفات المقبولة",
+  "receiptAcceptedValue": "JPEG أو PNG أو WebP أو PDF · حتى {size}",
+  "@receiptAcceptedValue": {
+    "placeholders": {
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "receiptPickHint": "صورة واضحة تُظهر المبلغ ورقم العملية.",
+  "receiptReady": "الملف جاهز للإرسال",
+  "preparingReceipt": "جارٍ تجهيز الملف…",
+  "replaceFile": "استبدال الملف",
+  "fileTypeLabel": "النوع",
+  "fileSizeLabel": "الحجم",
+  "attachmentKeepNotice": "الإيصال المرفوع يبقى محفوظًا؛ لن تحتاج إلى رفعه مرة أخرى.",
+  "receiptCompressedHint": "تم ضغط الصورة لتقليل حجم الرفع.",
+  "receiptOpenFailed": "تعذّر فتح الملف. تأكد من وجود تطبيق يدعم PDF.",
+  "openPayments": "طلبات مفتوحة",
+  "paymentHistory": "السجل",
+  "diagnosticsTitle": "التشخيص",
+  "serverUrl": "عنوان الخادم",
+  "appVersionLabel": "إصدار التطبيق",
+  "connectionLabel": "الاتصال",
+  "online": "متصل",
+  "pendingAnswers": "إجابات بانتظار الإرسال",
+  "languageArabic": "العربية",
+  "languageEnglish": "English",
+  "callSupport": "اتصال",
+  "supportPhoneLabel": "الهاتف",
+  "supportWhatsAppLabel": "واتساب",
+  "openWhatsApp": "فتح واتساب",
+  "galleryColors": "الألوان",
+  "galleryTypography": "الخطوط",
+  "galleryComponents": "المكونات",
+  "accountDetails": "بيانات الحساب",
+  "apiMode": "مصدر البيانات",
+  "diagnosticsIntro": "معلومات تساعد فريق الدعم على فهم المشكلة. لا تحتوي على كلمة المرور أو رمز الاسترجاع.",
+  "diagnosticsConnectionHint": "حالة الشبكة كما يراها التطبيق الآن.",
+  "diagnosticsPendingHint": "إجابات محفوظة على هذا الجهاز ولم تُرسَل بعد.",
+  "diagnosticsApiHint": "الخادم الذي يقرأ منه هذا الإصدار بياناته.",
+  "lastChecked": "آخر فحص: {time}",
+  "@lastChecked": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "splashBusyHint": "جارٍ التحقق من جلستك… قد يستغرق ذلك حتى ١٢ ثانية على اتصال بطيء.",
+  "fakeApi": "بيانات تجريبية",
+  "liveApi": "الخادم المباشر",
+  "couldNotOpen": "تعذّر فتح التطبيق. حاول مرة أخرى.",
+  "reportShared": "شكرًا، شاركنا التقرير.",
+  "privacyBody": "تحتفظ مذكرة برقم هاتفك واسمك وسجلّ المدفوعات لتشغيل حسابك فقط، ولا نشاركها مع أي طرف. تُستخدم بياناتك لفتح الأوراق ومتابعة تقدّمك. يمكنك طلب حذف حسابك من صفحة الملف الشخصي.",
+  "adaptivePractice": "تدريب تكيفي",
+  "adaptiveEntryHint": "يختار الخادم السؤال التالي حسب إجاباتك السابقة.",
+  "adaptiveClassContext": "صفك: {className}",
+  "@adaptiveClassContext": {
+    "placeholders": {
+      "className": {
+        "type": "String"
+      }
+    }
+  },
+  "adaptivePickPaper": "اختر ورقة للتدريب التكيفي",
+  "adaptiveFreeNote": "اختيار السؤال التكيفي مجاني ولا يستهلك رصيدًا. الأسئلة المدفوعة تتطلب فتح الورقة.",
+  "adaptiveNoControls": "لا يوجد اختيار يدوي للموضوع أو الصعوبة؛ الخادم يضبط الصعوبة من نتائجك.",
+  "adaptiveStart": "ابدأ التدريب التكيفي",
+  "adaptiveRemaining": "متبقٍ من الأسئلة: {count}",
+  "@adaptiveRemaining": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "adaptiveNoQuestions": "لا توجد أسئلة متاحة",
+  "adaptiveNoAccess": "لم نجد أسئلة متاحة دون فتح الورقة. افتح الورقة ثم عد.",
+  "adaptiveExhausted": "أجبت عن كل الأسئلة المتاحة في هذه الورقة.",
+  "adaptiveAutoLevel": "الصعوبة تُختار تلقائيًا",
+  "aiGradeTitle": "تصحيح بالذكاء الاصطناعي",
+  "aiGradeConfirmTitle": "تصحيح بالذكاء الاصطناعي؟",
+  "aiGradeBody": "تُصحَّح إجابتك وفق الإجابة النموذجية، وتُراجع بشريًا إذا كانت الثقة منخفضة.",
+  "aiGradeUnofficial": "نتيجة غير رسمية",
+  "aiGradeCostNote": "تُحدد الرسوم من الخادم وتُحجز عند الطلب، ولا تُخصم إلا بعد اعتماد النتيجة. تُعاد كاملة إذا رُفضت أو فشل الطلب.",
+  "aiGradeCharged": "خُصم {credits} رصيد مقابل التصحيح.",
+  "@aiGradeCharged": {
+    "placeholders": {
+      "credits": {
+        "type": "int"
+      }
+    }
+  },
+  "aiGradeReviewPending": "إجابتك بانتظار مراجعة بشرية",
+  "aiGradeReviewBody": "تم تصحيح أولي بالذكاء الاصطناعي، والدرجة النهائية تُعتمد بعد المراجعة.",
+  "aiGradeReviewNoCharge": "لا تُخصم أي رسوم الآن؛ تبقى محجوزة حتى تُعتمد المراجعة، وتُعاد إذا رُفضت.",
+  "aiGradeInProgress": "جارٍ التصحيح بالذكاء الاصطناعي…",
+  "aiGradeInProgressHint": "قد يستغرق حتى دقيقة. إن انقطع الاتصال ستُسترجع النتيجة المحفوظة تلقائيًا دون رسوم إضافية.",
+  "aiGradeRecovered": "استُرجعت النتيجة المحفوظة من الخادم دون رسوم إضافية.",
+  "aiGradeRejectedTitle": "رُفضت نتيجة المراجعة",
+  "aiGradeRejectedBody": "أُعيدت الرسوم المحجوزة إلى رصيدك. يمكنك إعادة إرسال الإجابة أو طلب تصحيح جديد بالذكاء الاصطناعي.",
+  "aiGradeVoidedTitle": "أُلغيت المراجعة",
+  "aiGradeVoidedBody": "تغيّرت إجابتك بعد طلب المراجعة، فأُلغيت وأُعيدت الرسوم. اطلب التصحيح من جديد للإجابة الحالية.",
+  "aiGradeTimeoutHint": "استغرق الطلب وقتًا أطول من المتوقع. إن كان التصحيح قد اكتمل فستظهر نتيجته المحفوظة، ولن تُخصم رسوم مرتين.",
+  "aiGradeMissingPoints": "نقاط ناقصة",
+  "aiGradeFailed": "لم يكتمل التصحيح. إجابتك محفوظة، ويمكنك المحاولة لاحقًا.",
+  "aiGradeUnavailable": "خدمة الذكاء الاصطناعي غير متاحة الآن.",
+  "aiGrading": "جارٍ التصحيح…",
+  "myMaterials": "موادي",
+  "materialsEntryHint": "أنشئ أسئلة تدريب من دروسك بعد مراجعة الفريق.",
+  "materialsEmpty": "لا توجد مواد بعد",
+  "materialsEmptyHint": "أضف نصًا أو صورة من درسك لإنشاء أسئلة تدريب.",
+  "materialAdd": "إضافة مادة",
+  "materialKindText": "نص",
+  "materialKindImage": "صورة",
+  "materialPrivate": "خاصة بحسابك",
+  "materialStatusReview": "بانتظار المراجعة",
+  "materialStatusReady": "جاهزة",
+  "materialStatusFailed": "فشل الإنشاء",
+  "materialStatusRejected": "مرفوضة",
+  "materialNoGeneration": "لم تُنشأ أسئلة",
+  "materialGenerate": "إنشاء أسئلة",
+  "materialSourcePaste": "نص ملصق",
+  "materialSourceFile": "ملف نصي",
+  "materialSourcePhoto": "صورة صفحة",
+  "materialSource": "المصدر",
+  "materialCreatedAt": "أُضيفت {date}",
+  "@materialCreatedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "materialTextLabel": "نص المادة",
+  "materialTextHint": "الصق نص الدرس هنا (١٠٠ حرف على الأقل).",
+  "materialTooShort": "النص قصير. أضف ١٠٠ حرف على الأقل.",
+  "materialPickFile": "اختيار ملف",
+  "materialNoFile": "لم تختر ملفًا بعد.",
+  "materialFileHint": ".txt أو .md أو صورة PNG/JPEG، بحد أقصى ٨ ميغابايت.",
+  "materialPdfDisabled": "استخراج النص من PDF غير مدعوم بعد. ارفع صورة للصفحة أو الصق النص.",
+  "materialPrivacyNote": "تبقى المادة خاصة بحسابك، ولا تُنشر للآخرين.",
+  "materialDraftKept": "احتفظنا بمادتك. أعد المحاولة بعد عودة الاتصال.",
+  "materialSaved": "أُضيفت المادة",
+  "materialGradeHint": "الصف الثانوي مطلوب لإنشاء الأسئلة.",
+  "materialSubjectHint": "اختر مادة من المنهج أو اكتبها.",
+  "materialGradeRequired": "اختر الصف الدراسي.",
+  "materialSubjectRequired": "اكتب اسم المادة.",
+  "materialContinue": "متابعة",
+  "generationConfirmTitle": "إنشاء أسئلة",
+  "generationFrom": "من مادة: {name}",
+  "@generationFrom": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "generationCount": "عدد الأسئلة",
+  "generationTypes": "الأنواع المدعومة: اختيار من متعدد، صح/خطأ، إكمال الفراغ، إجابة قصيرة.",
+  "generationReviewNote": "تُراجع الأسئلة المولّدة قبل الاستخدام. لا تظهر المفاتيح ولا يبدأ التدريب قبل الاعتماد.",
+  "generationCostNote": "تُحتسب الرسوم من الخادم عند التأكيد وتُحجز من رصيدك. يعيد الخادم المبلغ إذا فشل الطلب أو رُفضت الأسئلة.",
+  "generationPriceServer": "تحدد الرسوم من الخادم عند الإنشاء",
+  "generationAck": "فهمت أن الأسئلة تحتاج مراجعة قبل التدريب.",
+  "generationConfirm": "تأكيد الإنشاء",
+  "generationProcessing": "جارٍ إنشاء الأسئلة…",
+  "generationReviewStatus": "بانتظار مراجعة الفريق",
+  "generationReviewBody": "وصلت أسئلتك وستُراجع قريبًا. يمكنك ترك الصفحة والعودة لاحقًا.",
+  "generationReadyBody": "أنشأنا مجموعة خاصة من مادتك وراجعها الفريق. افتحها للتدريب.",
+  "generationFailedBody": "لم يكتمل الإنشاء ولم تُخصم رسوم. يمكنك المحاولة مرة أخرى.",
+  "generationUnsafe": "لم تجتز الأسئلة فحص السلامة، ولم تُخصم رسوم.",
+  "generationRejectedBody": "لم تُعتمد الأسئلة. أُعيد رصيدك إن كان قد خُصم.",
+  "generationOrigin": "مولّدة من مادتك ومراجعة من الفريق، وليست امتحانًا رسميًا.",
+  "generationOpen": "فتح المجموعة",
+  "generationRefresh": "تحديث الحالة",
+  "generationRefreshFailed": "تعذّر تحديث الحالة. لم نبدأ طلبًا جديدًا.",
+  "generationCharged": "خُصم {credits} رصيد.",
+  "@generationCharged": {
+    "placeholders": {
+      "credits": {
+        "type": "int"
+      }
+    }
+  },
+  "generationNoCharge": "لم تُخصم رسوم.",
+  "generationStatusTitle": "حالة الإنشاء",
+  "generationBack": "العودة إلى موادي",
+  "generationFailedStatus": "تعذّر الإنشاء",
+  "setByServer": "يحددها الخادم",
+  "acknowledge": "فهمت",
+  "errorAiDisabled": "خدمة الذكاء الاصطناعي متوقفة حاليًا.",
+  "errorAiBudgetExceeded": "توقفت خدمة الذكاء الاصطناعي مؤقتًا حتى تحسين الميزانية. جرّب لاحقًا.",
+  "errorAiInvalidOutput": "لم يكتمل طلب الذكاء الاصطناعي. حاول مرة أخرى.",
+  "errorAiContentUnsafe": "لم تجتز الأسئلة فحص السلامة، ولم تُخصم رسوم.",
+  "errorNotAiMarkable": "هذا السؤال لا يُصحَّح بالذكاء الاصطناعي.",
+  "errorAnswerAlreadyMarked": "تم تصحيح هذه الإجابة بالفعل.",
+  "errorReviewAlreadyPending": "إجابتك بانتظار مراجعة بشرية بالفعل.",
+  "errorAiInFlight": "التصحيح بالذكاء الاصطناعي قيد التنفيذ لهذه الإجابة بالفعل. انتظر اكتماله ثم حدّث.",
+  "errorEmptyAnswer": "اكتب إجابة قبل طلب التصحيح.",
+  "errorClassLevelRequired": "حدّد صفك الدراسي في حسابك أولًا.",
+  "errorMaterialRequired": "أرفق مادة أولًا.",
+  "errorMaterialNotFound": "لم نعثر على هذه المادة.",
+  "errorMaterialFileMissing": "ملف المادة لم يعد موجودًا. أضفها من جديد.",
+  "errorMaterialTypeNotAllowed": "ارفع .txt أو .md أو صورة PNG/JPEG.",
+  "errorMaterialPdfNotSupported": "استخراج PDF غير مدعوم بعد؛ ارفع صورة أو نصًا.",
+  "errorMaterialTooLarge": "حجم المادة كبير جدًا. الحد الأقصى ٨ ميغابايت.",
+  "errorMaterialTooShort": "المادة قصيرة جدًا. أضف ١٠٠ حرف على الأقل.",
+  "errorMaterialTooLong": "المادة طويلة جدًا. قسّمها إلى أجزاء أصغر.",
+  "errorMaterialUploadFailed": "تعذّر رفع المادة. حاول مرة أخرى.",
+  "errorMaterialFieldInvalid": "ملف المادة غير صالح. أعد اختياره.",
+  "errorGenerationNotFound": "لم نعثر على طلب الإنشاء.",
+  "errorAiTimeout": "انتهت مهلة خدمة الذكاء الاصطناعي. حاول مرة أخرى.",
+  "errorAiUpstream": "تعذّر الوصول إلى خدمة الذكاء الاصطناعي. حاول لاحقًا.",
+  "errorAiUnavailable": "خدمة الذكاء الاصطناعي غير متاحة الآن.",
+  "generationUnknown": "حالة غير معروفة",
+  "generationUnknownBody": "لم نتعرف على حالة هذا الطلب. حدّث الحالة، أو تواصل مع الدعم إن تكرر ذلك."
+}

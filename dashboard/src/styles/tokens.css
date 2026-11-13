@@ -1,0 +1,102 @@
+:root {
+  /* Ink: the deep teal of a printed Sudanese certificate border. */
+  --ink-950: #08201f;
+  --ink-900: #0e2a2b;
+  --ink-800: #113739;
+  --ink-700: #14484a;
+  --ink-500: #1d6e6e;
+  --ink-300: #4f9a97;
+
+  /* Papyrus: the paper the notebook is written on. */
+  --papyrus: #f4eee2;
+  --papyrus-deep: #ebe3d3;
+  --surface: #fffdf7;
+  --surface-sunken: #faf6ec;
+  --overlay: #fffefb;
+
+  --amber: #e8a317;
+  --amber-deep: #b87d05;
+  --electric: #1f6feb;
+  --acid: #2fbf71;
+  --magenta: #c2185b;
+
+  --success: #1b9c5a;
+  --warning: #e08700;
+  --danger: #d7263d;
+  --info: #1f6feb;
+
+  --text: #0e2a2b;
+  --text-soft: #35514f;
+  --muted: #5f6e6c;
+  --on-ink: #f2efe6;
+  --on-ink-soft: #a8c4c1;
+
+  --line: #e2dccc;
+  --line-strong: #cdc4ae;
+  --line-cool: #dde5e3;
+  --scrim: rgba(8, 32, 31, 0.55);
+
+  --tone-neutral-bg: #ece7db;
+  --tone-neutral-fg: #4a5654;
+  --tone-success-bg: #dcf3e6;
+  --tone-success-fg: #0f6b3c;
+  --tone-warning-bg: #fbeed2;
+  --tone-warning-fg: #8a5300;
+  --tone-danger-bg: #fbe0e3;
+  --tone-danger-fg: #96122a;
+  --tone-info-bg: #dfeafd;
+  --tone-info-fg: #12459e;
+  --tone-magenta-bg: #fbe0ec;
+  --tone-magenta-fg: #8e0f42;
+  --tone-acid-bg: #ddf6e8;
+  --tone-acid-fg: #10693c;
+
+  --font-sans: 'IBM Plex Sans Arabic', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'Cascadia Mono', monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.8125rem;
+  --text-md: 0.875rem;
+  --text-lg: 1rem;
+  --text-xl: 1.1875rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 2rem;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 1px 2px rgba(8, 32, 31, 0.08);
+  --shadow-md: 0 6px 18px -8px rgba(8, 32, 31, 0.28);
+  --shadow-lg: 0 24px 60px -24px rgba(8, 32, 31, 0.45);
+
+  --sidebar-w: 248px;
+  --topbar-h: 56px;
+  --row-h: 40px;
+
+  --fast: 120ms;
+  --normal: 180ms;
+  --ease: cubic-bezier(0.32, 0.72, 0.3, 1);
+
+  --z-sticky: 20;
+  --z-topbar: 30;
+  --z-drawer: 60;
+  --z-modal: 70;
+  --z-toast: 90;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --fast: 1ms;
+    --normal: 1ms;
+  }
+}
